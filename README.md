@@ -1,4 +1,5 @@
-## Code for paper "Graph Convolutional Network for Channel Selection and Power Control in Device-to-Device Communication".
+### Code for paper 
+"Graph Convolutional Network for Channel Selection and Power Control in Device-to-Device Communication".
 
 ### Steps of usage:
   1. Install the environment according to requirement.txt
